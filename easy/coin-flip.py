@@ -9,7 +9,7 @@
 # The player needs to play N rounds.In the k-th round the player will flip the
 # face of the all coins whose number is less than or equal to k. That is, the
 # face of coin i will be reversed, from Head to Tail, or, from Tail to Head,
-# for i ≤ k.
+# for i <= k.
 # Elephant needs to guess the total number of coins showing a particular face
 # after playing N rounds. Elephant really becomes quite fond of this game COIN
 # FLIP, so Elephant plays G times. Please help the Elephant to find out the
@@ -31,14 +31,15 @@
 # in the end of the game.
 #
 # Output
-# For each game, output one integer denoting the total number of coins showing the particular face in the end of the game.
+# For each game, output one integer denoting the total number of coins showing
+# the particular face in the end of the game.
 # Constraints
 # 
-# 1 ≤ T ≤ 10
-# 1 ≤ G ≤ 20000
-# 1 ≤ N ≤ 109
-# 1 ≤ I ≤ 2
-# 1 ≤ Q ≤ 2
+# 1 <= T <= 10
+# 1 <= G <= 20000
+# 1 <= N <= 109
+# 1 <= I <= 2
+# 1 <= Q <= 2
 #
 # Example
 # Input:

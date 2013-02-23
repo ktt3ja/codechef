@@ -8,7 +8,7 @@
 #
 # Input
 # The first line contains the number of test cases T. Each test case contains
-# n integer K (≤ 100).
+# n integer K (<= 100).
 #
 # Output
 # Output T lines, one for each test case, containing the required string. Use
